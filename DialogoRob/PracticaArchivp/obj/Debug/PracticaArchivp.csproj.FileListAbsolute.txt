@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\bin\Debug\PracticaArchivp.exe.config
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\bin\Debug\PracticaArchivp.exe
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\bin\Debug\PracticaArchivp.pdb
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.Form1.resources
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.exe
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.pdb
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.Form2.resources
+C:\Users\Usuario\Desktop\PracticaArchivp\PracticaArchivp\obj\Debug\PracticaArchivp.Form3.resources
